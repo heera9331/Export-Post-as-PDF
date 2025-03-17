@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Export Post as PDF
- * Plugin URI: 
+ * Plugin URI: https://github.com/heera9331/Export-Post-as-PDF
  * Description: Adds a button to export posts as PDF.
  * Version: 1.0
  * Author: Heera Singh Lodhi
