@@ -1,0 +1,17 @@
+{
+    "name": "vendor/heera",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Heera\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "heera9331",
+            "email": "heera9331@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}
